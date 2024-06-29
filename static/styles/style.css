@@ -1,0 +1,33 @@
+.name {
+    color: red;
+}
+
+.group {
+    color: red;
+}
+
+.hi {
+    margin-left: 20px;
+    margin-inline: auto;
+    font-size: 25px;
+}
+.header {
+    max-width: fit-content;
+    margin-inline: auto;
+    font-size: 26px;
+}
+
+.group_header {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+.pic {
+    max-width: fit-content;
+    margin-inline: auto;
+}
+.text {
+    font-size: 20px;
+}
